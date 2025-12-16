@@ -18,11 +18,11 @@ This agent automates B2B lead generation for biotech sales teams by:
 
 ##  Key Features
 
-- ✅ **Real-time PubMed integration** - Live scientific publication data
-- ✅ **Intelligent scoring** - Weighted algorithm (Role Fit + Funding + Tech + Location + Publications)
-- ✅ **Multi-source ready** - Designed for LinkedIn, Crunchbase, conferences, NIH grants
-- ✅ **Clean CSV output** - Ranked leads with contact info and scoring
-- ✅ **No mock data** - Only real, verifiable researchers from academic databases
+-  **Real-time PubMed integration** - Live scientific publication data
+-  **Intelligent scoring** - Weighted algorithm (Role Fit + Funding + Tech + Location + Publications)
+-  **Multi-source ready** - Designed for LinkedIn, Crunchbase, conferences, NIH grants
+-  **Clean CSV output** - Ranked leads with contact info and scoring
+-  **No mock data** - Only real, verifiable researchers from academic databases
 
 ---
 
@@ -157,17 +157,17 @@ if 'director' in title_lower or 'head' in title_lower:
 
 ##  Roadmap
 
-### Phase 1 ✅ (Complete)
+### Phase 1  (Complete)
 - [x] PubMed integration
 - [x] Scoring algorithm
 - [x] CSV export
 
-### Phase 2 🚧 (Next)
+### Phase 2  (Next)
 - [ ] Crunchbase API for funding data
 - [ ] LinkedIn Sales Navigator integration
 - [ ] Email validation service
 
-### Phase 3 📅 (Future)
+### Phase 3  (Future)
 - [ ] PostgreSQL database
 - [ ] Daily scheduled scans
 - [ ] Telegram/Slack alerts
